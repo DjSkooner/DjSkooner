@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dj currently in Cape Town, South Africa.
+- 👋 Hi, I’m Dj Skooner currently in Cape Town, South Africa.
 - 👀 I’m interested in learning software development using any framework that matches Python and Java.
 - 🌱 I’m currently learning Full stack development. I just completed my first course on Python.
 - 💞️ I’m looking to collaborate on software development projects of any size.
